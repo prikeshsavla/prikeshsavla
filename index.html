@@ -7,10 +7,15 @@
 
     <meta name="author" content="Prikesh Savla" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- <link rel="shortcut icon" href="images/favicon.ico" /> -->
-    <link href='https://fonts.googleapis.com/css?family=Poppins:400,700,800' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href='css/style.css' />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="msapplication-TileColor" content="#000000">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href='build/css/style.css' />
 
     <title>Prikesh Savla - Web and App Developer</title>
     <meta name="title" content="Prikesh Savla - Web and App Developer">
@@ -53,9 +58,9 @@
 <body>
 
     <!-- Preloader Gif -->
-    <div class="doc-loader">
-        <img src="images/preloader.gif" alt="Loading">
-    </div>
+    <!-- <div class="doc-loader">
+        <img src="images/loading.gif" alt="Loading">
+    </div> -->
 
     <div id="content" class="site-content">
 
@@ -81,11 +86,8 @@
                             <nav id="header-main-menu">
                                 <ul class="main-menu sm sm-clean">
                                     <li><a href="#home">Home</a></li>
-                                    <li><a href="#service">Service</a></li>
                                     <li><a href="#portfolio">Portfolio</a></li>
-                                    <li><a href="#resume">Resume</a></li>
                                     <li><a href="#skills">Skills</a></li>
-                                    <li><a href="#contact">Contact</a></li>
                                 </ul>
                             </nav>
                         </div>
@@ -129,7 +131,7 @@
                             <p class="site-des">Hello. My name is</p>
                             <h1 class="entry-title">Prikesh Savla</h1>
                             <p class="site-info">
-                                Looking for Open Source Contributions and Side Project ideas. <br>
+                                Looking for Open Source Contributions and Side Project ideas.<br>
                                 Making mobile first high quality websites with Bootstrap 4, Vuejs.
                                 <br>
                                 Highly scalable apps
@@ -145,7 +147,7 @@
                                 <a target="_blank" rel="noopener" href="https://www.instagram.com/prikeshdexter/">
                                     instagram
                                 </a> |
-                                <a href="www.linkedin.com/in/prikeshsavla">
+                                <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/prikeshsavla">
                                     linkedin
                                 </a> |
                                 <a target="_blank" rel="noopener" href="https://medium.com/@prikeshsavla">
@@ -162,272 +164,98 @@
                 </div>
 
                 <!-- Service Section -->
-                <div id="service" class="section" style="display: none;">
+                <div id="portfolio" class="section">
                     <div class="section-wrapper block">
                         <div class="content-1300">
                             <div class="row">
-                                <div class="one-half width-55">
+                                <div class="one-half width-70">
                                     <div class="services-wrapper">
                                         <div class="service-holder">
                                             <!-- <img src="images/service1.png" alt="" /> -->
-                                            <h4 class="service-title">Design</h4>
+                                            <h2 class="service-title">Swish Insights</h2>
                                             <div class="service-text">
-                                                A full stack allaround designer that may or may not include a guide for
-                                                specific creative people
+                                                Track and Compare Website performance with Google Lighthouse v3. The
+                                                Public LeaderBoards to see how your website ranks across the world
+
+                                                <br><br>
+
+                                                <a href="https://swish.prikeshsavla.com/" class="button" rel="noopener"
+                                                    target="_blank" rel="noopener">View</a>
+                                                <a href="https://github.com/prikeshsavla/swish-insights" class="button"
+                                                    rel="noopener" target="_blank" rel="no-opener">View Repository</a>
                                             </div>
                                         </div>
 
-                                        <div class="service-holder m-right-0">
-                                            <!-- <img src="images/service2.png" alt="" /> -->
-                                            <h4 class="service-title">Develop</h4>
+                                        <div class="service-holder">
+                                            <!-- <img src="images/service1.png" alt="" /> -->
+                                            <h2 class="service-title">Username Generator</h2>
                                             <div class="service-text">
-                                                Tellus pharetra erat tristique erat donec dignissim etiam sed malesik
-                                                enim sodales lorem ipsum
+                                                A simple Dart library for generating random and seedable username for
+                                                emails or user forms
+
+
+                                                <br><br><br>
+
+                                                <a href="https://pub.dev/packages/username_generator" class="button"
+                                                    rel="noopener" target="_blank" rel="no-opener">View</a>
+                                                <a href="https://github.com/prikeshsavla/username_generator.dart"
+                                                    class="button" rel="noopener" target="_blank" rel="no-opener">View
+                                                    Repository</a>
                                             </div>
                                         </div>
-
-                                        <div class="service-holder m-bottom-0">
-                                            <!-- <img src="images/service3.png" alt="" /> -->
-                                            <h4 class="service-title">Write</h4>
+                                        <div class="service-holder">
+                                            <!-- <img src="images/service1.png" alt="" /> -->
+                                            <h2 class="service-title">Food Station</h2>
                                             <div class="service-text">
-                                                Vestibulum consequat, dignissim tellus sollicitudin vulputate elit
-                                                aliquet ullamcorper feugiat nisi
+                                                A Food Counter App with NuxtJs and Hasura.io. Create Orders and Change
+                                                states of Orders based on the current status.
+
+                                                <br><br>
+
+                                                <a href="https://github.com/prikeshsavla/food-station" class="button"
+                                                    rel="noopener" target="_blank" rel="no-opener">View
+                                                    Repository</a>
                                             </div>
                                         </div>
-
-                                        <div class="service-holder m-right-0 m-bottom-0">
-                                            <!-- <img src="images/service4.png" alt="" /> -->
-                                            <h4 class="service-title">Promote</h4>
+                                        <div class="service-holder">
+                                            <!-- <img src="images/service1.png" alt="" /> -->
+                                            <h2 class="service-title">10 Days of ML
+                                            </h2>
                                             <div class="service-text">
-                                                Quam facilisi nunc faucibus at porttitor vestibulum consequat dignissim
-                                                tellus sollicitudin
+                                                TA Machine Learning Challenge for getting beginners and advanced ML
+                                                programmers to try and design great solutions
+
+                                                <br><br><br>
+
+
+                                                <a href="https://github.com/prikeshsavla/10-Days-of-ML" class="button"
+                                                    rel="noopener" target="_blank" rel="no-opener">View
+                                                    Repository</a>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <div class="one-half width-40 last">
-                                    <h2 class="entry-title section-title">Services</h2>
+                                <div class="one-half width-30 last">
+                                    <h2 class="entry-title section-title">About Me</h2>
                                     <p class="section-info">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra tristique
-                                        placerat in massa consectetur quisque nunc fames.
+                                        Looking for Open Source Contributions and Side Project ideas.
                                     </p>
                                     <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra tristique
-                                        placerat in massa consectetur quisque. Nunc ac fames lectus in libero aliquet.
-                                    </p>
-                                    <p>
-                                        Faucibus sed tristique fames sed aliquet ultricies eget viverra arcu. Vitae
-                                        faucibus diam consequat maecenas. Turpis metus sit diam purus leo in varius ac
-                                        quam. Nunc amet tristique volutpat adipiscing vulputate phasellus. Volutpat
-                                        faucibus
+                                        Making mobile first high quality websites with Bootstrap 4, Vuejs.
+                                        <br>
+                                        Highly scalable apps with Google backed Flutter
+                                        Framework
+                                        <br>
+                                        High performance Web Apps and Prototypes with Ruby on
+                                        Rails.
                                     </p>
 
                                     <div class="button-group-wrapper">
-                                        <a class="button">Download CV</a>
-                                        <a href="#portfolio" class="button">Check My Portfolio</a>
+                                        <a href="https://github.com/prikeshsavla" class="button" rel="noopener"
+                                            target="_blank" rel="no-opener">Check
+                                            My Portfolio</a>
                                     </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Portfolio Section -->
-                <div id="portfolio" class="section" style="display: none;">
-                    <div class="section-wrapper block">
-                        <div class="content-1300">
-                            <div id="portfolio-wrapper" class="relative">
-                                <div class="category-filter">
-                                    <div class="category-filter-icon"></div>
-                                </div>
-                                <div class="category-filter-list button-group filters-button-group">
-                                    <div class="button is-checked" data-filter="*">All</div>
-                                    <div class="button" data-filter=".text">Text</div>
-                                    <div class="button" data-filter=".video">Video</div>
-                                    <div class="button" data-filter=".image">Image</div>
-                                </div>
-                                <div class="portfolio-load-content-holder"></div>
-                                <div class="grid" id="portfolio-grid">
-                                    <div class="grid-sizer"></div>
-
-                                    <div id="p-item-1" class="grid-item element-item p-one-third text">
-                                        <a class="item-link ajax-portfolio" href="portfolio-1.html" data-id="1">
-                                            <img src="images/portfolio1.jpg" alt="" />
-                                            <div class="portfolio-text-holder">
-                                                <div class="portfolio-text-wrapper">
-                                                    <p class="portfolio-text">Home</p>
-                                                    <p class="portfolio-cat">Text</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-
-                                    <div id="p-item-2" class="grid-item element-item p-one-third text">
-                                        <a class="item-link ajax-portfolio" href="portfolio-2.html" data-id="2">
-                                            <img src="images/portfolio2.jpg" alt="" />
-                                            <div class="portfolio-text-holder">
-                                                <div class="portfolio-text-wrapper">
-                                                    <p class="portfolio-text">Stairways</p>
-                                                    <p class="portfolio-cat">Text</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-
-                                    <div id="p-item-3" class="grid-item element-item p-one-third text">
-                                        <a class="item-link ajax-portfolio" href="portfolio-3.html" data-id="3">
-                                            <img src="images/portfolio3.jpg" alt="" />
-                                            <div class="portfolio-text-holder">
-                                                <div class="portfolio-text-wrapper">
-                                                    <p class="portfolio-text">Sneakers</p>
-                                                    <p class="portfolio-cat">Text</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-
-                                    <div class="grid-item element-item p-one-third video">
-                                        <a class="item-link" href="https://vimeo.com/199192931"
-                                            data-rel="prettyPhoto[portfolio]">
-                                            <img src="images/portfolio4.jpg" alt="" />
-                                            <div class="portfolio-text-holder">
-                                                <div class="portfolio-text-wrapper">
-                                                    <p class="portfolio-text">Design</p>
-                                                    <p class="portfolio-cat">Video</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-
-                                    <div class="grid-item element-item p-one-third image">
-                                        <a class="item-link" href="images/item_03.jpg"
-                                            data-rel="prettyPhoto[portfolio]">
-                                            <img src="images/portfolio5.jpg" alt="" />
-                                            <div class="portfolio-text-holder">
-                                                <div class="portfolio-text-wrapper">
-                                                    <p class="portfolio-text">Leaf</p>
-                                                    <p class="portfolio-cat">Image</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-
-                                    <div class="grid-item element-item p-one-third image">
-                                        <a class="item-link" href="images/item_02.jpg"
-                                            data-rel="prettyPhoto[portfolio]">
-                                            <img src="images/portfolio6.jpg" alt="" />
-                                            <div class="portfolio-text-holder">
-                                                <div class="portfolio-text-wrapper">
-                                                    <p class="portfolio-text">Bottle</p>
-                                                    <p class="portfolio-cat">Image</p>
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Resume Section -->
-                <div id="resume" class="section" style="display: none;">
-                    <div class="section-wrapper block">
-                        <div class="content-1300">
-                            <div class="row">
-                                <div class="one-half width-55">
-                                    <h2 class="entry-title section-title">Experience</h2>
-
-                                    <ul class="timeline-holder">
-                                        <li class="timeline-event">
-                                            <span class="timeline-circle"></span>
-                                            <div class="timeline-event-content">
-                                                <b>2015 - 2017</b> Turpis metus sit diam purus leo in varius ac quam.
-                                                Nunc amet tristique volutpat adipiscing vulputate phasellus. Eget enim
-                                                aliquam euismod mauris in vitae viverra blandit lectus diam feugiat.
-                                                Nunc amet tristique volutpat adipiscing vulputate phasellus. Eget enim
-                                                aliquam euismod.
-                                            </div>
-                                            <div class="timeline-event-date">2015</div>
-                                        </li>
-
-                                        <li class="timeline-event">
-                                            <span class="timeline-circle"></span>
-                                            <div class="timeline-event-content">
-                                                <b>2017 - 2018</b> Rings of Uranus the only home we’ve ever known.
-                                                Permanence of the stars Tunguska event drake equation encyclopaedia
-                                                galactica great turbulent quisque risus arcu, ullamcorper id nunc quis,
-                                                euismod tincidunt.
-                                            </div>
-                                            <div class="timeline-event-date">2017</div>
-                                        </li>
-
-                                        <li class="timeline-event">
-                                            <span class="timeline-circle"></span>
-                                            <div class="timeline-event-content">
-                                                <b>2018 - 2020</b> Eget enim aliquam euismod mauris in vitae viverra
-                                                blandit lectus faucibus diam consequat maecenas turpis metus sit diam
-                                                purus leo in varius. Nunc amet tristique volutpat adipiscing vulputate
-                                                phasellus eget enim.
-                                            </div>
-                                            <div class="timeline-event-date">2018</div>
-                                        </li>
-
-                                        <li class="timeline-event">
-                                            <span class="timeline-circle"></span>
-                                            <div class="timeline-event-content">
-                                                <b>2020 - 2022</b> Tendrils of gossamer clouds, the ash of stellar
-                                                alchemy tendrils of true gossamer clouds vangelis the sky calls to us
-                                                rich in heavy atoms something. Turpis metus sit diam purus leo in varius
-                                                ac quam. Nunc amet tristique volutpat adipiscing vulputate phasellus.
-                                                Eget enim aliquam euismod mauris in vitae viverra blandit lectus diam
-                                                feugiat.
-                                            </div>
-                                            <div class="timeline-event-date">2020</div>
-                                        </li>
-
-                                        <li class="timeline-event">
-                                            <span class="timeline-circle"></span>
-                                            <div class="timeline-event-content">
-                                                <b>2022 - 2025</b> Vestibulum ante ipsum primis in faucibus orci luctus
-                                                et ultrices posuere cubilia Curae; In nec ipsum risus. Nulla vulputate
-                                                pulvinar consectetur. Praesent semper sem eget nisl viverra, vitae
-                                                vulputate metus placerat.
-                                            </div>
-                                            <div class="timeline-event-date">2025</div>
-                                        </li>
-                                    </ul>
-                                </div>
-
-                                <div class="one-half width-40 last">
-                                    <h2 class="entry-title section-title">Cover letter</h2>
-                                    <p class="section-info">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra tristique
-                                        placerat in massa consectetur quisque nunc fames.
-                                    </p>
-                                    <p>
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra tristique
-                                        placerat in massa consectetur quisque. Nunc ac fames lectus in libero aliquet.
-                                        Mauris egestas nulla arcu, ut vestibulum diam vulputate non. Ut massa mauris,
-                                        condimentum ut tincidunt eu, mattis euismod dolor.
-                                    </p>
-                                    <p>
-                                        Faucibus sed tristique fames sed aliquet ultricies eget viverra arcu. Vitae
-                                        faucibus diam consequat maecenas. Turpis metus sit diam purus leo in varius ac
-                                        quam. Nunc amet tristique volutpat adipiscing vulputate phasellus. Volutpat
-                                        faucibus sed condimentum aliquet mi, nec lobortis neque gravida tempor. Praesent
-                                        vel commodo dolor, at vehicula turpis.
-                                    </p>
-
-                                    <p>
-                                        Phasellus non dui sed eros scelerisque gravida eu lobortis magna. Sed vulputate,
-                                        lacus blandit posuere aliquet, enim purus dignissim nunc, at efficitur nulla
-                                        lacus id quam. Morbi feugiat neque a quam viverra auctor.
-                                    </p>
-
-                                    <img class="my-signature" src="images/signature2.png" alt="">
                                 </div>
                             </div>
                         </div>
@@ -435,7 +263,7 @@
                 </div>
 
                 <!-- Skills Section -->
-                <div id="skills" class="section" style="display: none;">
+                <div id="skills" class="section">
                     <div class="section-wrapper block">
                         <div class="content-1300">
                             <div class="row m-bottom-60">
@@ -455,7 +283,7 @@
                                             data-empty-color="#292929">
                                             <span class="skill-circle-num"></span>
                                         </div>
-                                        <p class="skill-circle-text">Marketing</p>
+                                        <p class="skill-circle-text">JavaScript</p>
                                     </div>
 
                                     <div class="skill-circle">
@@ -463,15 +291,15 @@
                                             data-color="#2F99DA" data-empty-color="#292929">
                                             <span class="skill-circle-num"></span>
                                         </div>
-                                        <p class="skill-circle-text">PhP</p>
+                                        <p class="skill-circle-text">Ruby or Rails</p>
                                     </div>
 
                                     <div class="skill-circle">
-                                        <div class="skill-circle-wrapper relative" data-value="0.31"
+                                        <div class="skill-circle-wrapper relative" data-value="0.05"
                                             data-color="#2F99DA" data-empty-color="#292929">
                                             <span class="skill-circle-num"></span>
                                         </div>
-                                        <p class="skill-circle-text">3D</p>
+                                        <p class="skill-circle-text">Go</p>
                                     </div>
                                 </div>
                             </div>
@@ -483,21 +311,21 @@
                                         <div class="skill-holder">
                                             <div class="skill-text">
                                                 <div class="skill">
-                                                    <div class="skill-fill" data-fill="75%"></div>
+                                                    <div class="skill-fill" data-fill="15%"></div>
                                                 </div>
-                                                <span>Creativity</span>
+                                                <span>Dart</span>
                                             </div>
-                                            <div class="skill-percent">75%</div>
+                                            <div class="skill-percent">15%</div>
                                         </div>
 
                                         <div class="skill-holder">
                                             <div class="skill-text">
                                                 <div class="skill">
-                                                    <div class="skill-fill" data-fill="48%"></div>
+                                                    <div class="skill-fill" data-fill="70%"></div>
                                                 </div>
-                                                <span>Cooking</span>
+                                                <span>Vue</span>
                                             </div>
-                                            <div class="skill-percent">48%</div>
+                                            <div class="skill-percent">70%</div>
                                         </div>
                                     </div>
                                 </div>
@@ -509,7 +337,7 @@
                                                 <div class="skill">
                                                     <div class="skill-fill" data-fill="90%"></div>
                                                 </div>
-                                                <span>PhP</span>
+                                                <span>Gaming</span>
                                             </div>
                                             <div class="skill-percent">90%</div>
                                         </div>
@@ -517,11 +345,11 @@
                                         <div class="skill-holder">
                                             <div class="skill-text">
                                                 <div class="skill">
-                                                    <div class="skill-fill" data-fill="62%"></div>
+                                                    <div class="skill-fill" data-fill="70%"></div>
                                                 </div>
-                                                <span>Marketing</span>
+                                                <span>Product Architecture</span>
                                             </div>
-                                            <div class="skill-percent">62%</div>
+                                            <div class="skill-percent">70%</div>
                                         </div>
                                     </div>
                                 </div>
@@ -530,74 +358,19 @@
                     </div>
                 </div>
 
-                <!-- Contact Section -->
-                <div id="contact" class="section" style="display: none;">
-                    <div class="section-wrapper block">
-                        <div class="content-1300">
-                            <div class="row">
-                                <h2 class="entry-title section-title">Get in touch</h2>
-                                <div class="one-half width-40">
-
-                                    <p class="section-info">
-                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Viverra tristique
-                                        placerat in massa consectetur quisque nunc fames.
-                                    </p>
-                                    <p>
-                                        Magni dolores eos qui sed quia consequuntur ratione voluptatem sequi nesciunt
-                                        permano Nence of the stars from which we spring muse about as a patch of light
-                                        billions upon billions.
-                                    </p>
-                                    <p>
-                                        Energy hidden in matter a mote of lorem ipsum dust suspended in a sunbeam
-                                        billions upon ratione voluptatem sequi nesciunt permano lorem ipsum.
-                                    </p>
-                                    <p>
-                                        <b>ADDRESS:</b> Some Street 987, USA <br>
-                                        <b>EMAIL:</b> company@youremail.com <br>
-                                        <b>WEBSITE:</b> www.yourwebsite.com <br>
-                                    </p>
-                                </div>
-
-                                <div class="one-half width-55 last">
-
-                                    <div class="contact-form" id="contact-wrapper">
-                                        <form id="conversation-form"></form>
-                                        <p>
-                                            <input id="name" type="text" name="your-name" placeholder="Name">
-                                        </p>
-                                        <p>
-                                            <input id="contact-email" type="email" name="your-email"
-                                                placeholder="Email">
-                                        </p>
-                                        <p>
-                                            <input id="subject" type="text" name="your-subject" placeholder="Subject">
-                                        </p>
-                                        <p>
-                                            <textarea id="message" name="your-message" placeholder="Message"></textarea>
-                                        </p>
-                                        <p class="contact-submit-holder">
-                                            <input type="submit" value="SEND">
-                                        </p>
-                                        </form>
-                                    </div>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
 
             </div>
         </div>
     </div>
 
     <!--Load JavaScript-->
-    <script src="js/jquery.js"></script>
-    <script src='js/imagesloaded.pkgd.js'></script>
-    <script src='js/jquery.prettyPhoto.js'></script>
-    <script src='js/isotope.pkgd.js'></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"
+        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+    <!-- <script src='js/imagesloaded.pkgd.js' defer></script> -->
+    <!-- <script src='js/jquery.prettyPhoto.js' defer></script> -->
+    <!-- <script src='js/isotope.pkgd.js' defer></script> -->
     <script src='js/jquery.smartmenus.min.js'></script>
-    <script src='js/owl.carousel.min.js'></script>
+    <!-- <script src='js/owl.carousel.min.js' ></script> -->
     <script src='js/circle-progress.min.js'></script>
     <script src='js/main.js'></script>
 
