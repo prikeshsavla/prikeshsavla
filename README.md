@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on [Swish Insights](https://github.com/prikeshsavla/swish-insights-nuxt) 
+- 🔭 I’m currently working on [Open Pull Request Newsletter](http://openpullrequest.substack.com/) 
 - 🌱 I’m currently learning Go and NuxtJs
 - 👯 I’m looking to collaborate on Vue, Go, Ruby, Js, CSS
 - 🤔 I’m looking for help with Go, Nuxt
