@@ -21,10 +21,16 @@
 - ⚡ Fun fact: I also like to take picuters of different perspectives, mostly on whim,  [prikeshdexter](https://www.instagram.com/prikeshdexter/)
 
 
-![Some stats](https://github-readme-stats.vercel.app/api?username=prikeshsavla&show_icons=true&include_all_commits=true)
-![Some stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=prikeshsavla&layout=compact)
+![](https://komarev.com/ghpvc/?username=prikeshsavla&color=gray)
 
+<!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
+## GitHub Stats
+![My Stats](https://github-readme-stats.vercel.app/api?username=prikeshsavla&show_icons=true&count_private=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prikeshsavla&layout=compact&langs_count=8&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prikeshsavla&theme=highcontrast)
 
+## Trophies? (For stats)
+![Trophies](https://github-profile-trophy.vercel.app/?username=prikeshsavla&theme=monokai&row=1&no-frame=true&no-bg=true)
 ---
 
 ### :zap: Recent Activity
