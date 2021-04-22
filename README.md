@@ -52,8 +52,9 @@
 
 <a href="mailto:me@prikeshsavla.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="GMail"></a> &nbsp; &nbsp;
 
-
+<a href="https://www.virtualbadge.io/certificate-validator?credential=cer-c55d4053-aefd-42ef-8816-73aa86ee" > 
 <img src="https://user-images.githubusercontent.com/34878926/115722733-e6f56680-a39c-11eb-924f-3b032dc7b6e4.png" width="150">
+  </a>
 
 
 <a href="https://trackgit.com">
