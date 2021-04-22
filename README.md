@@ -41,8 +41,6 @@
 
 
 
-
-
 ---
 
 <i> Let's connect and chat! :incoming_envelope: </i>
@@ -53,6 +51,11 @@
 <a href="https://t.me/PrikeshDexter"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
 
 <a href="mailto:me@prikeshsavla.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="GMail"></a> &nbsp; &nbsp;
+
+
+<img src="https://user-images.githubusercontent.com/34878926/115722733-e6f56680-a39c-11eb-924f-3b032dc7b6e4.png" width="150">
+
+
 <a href="https://trackgit.com">
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kktaq4q79irbxj2u5qkk" alt="trackgit-views" />
 </a>
