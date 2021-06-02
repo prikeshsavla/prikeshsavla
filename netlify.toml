@@ -1,3 +1,46 @@
+[[redirects]]
+  from = "/blog/*"
+  to = "/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/projects/*"
+  to = "/index.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/newsletter/*"
+  to = "http://openpullrequest.substack.com/:splat"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/github/*"
+  to = "https://github.com/prikeshsavla"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/twitter/*"
+  to = "https://twitter.com/prikeshdexter"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/linkedin/*"
+  to = "https://www.linkedin.com/in/prikeshsavla"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/instagram/*"
+  to = "https://www.instagram.com/prikeshdexter/"
+  status = 200
+  force = true
+
+
 [build]
 command = "npm run generate"
 publish = "dist"

@@ -33,7 +33,7 @@
       </li>
     </ul>
     <h3 v-else class="max-w-5xl mx-auto mt-4">
-      {{ amount > 1 ? 'Posts not found' : 'Post not found' }}
+      {{ amount > 1 ? 'Havent written any yet' : 'Havent written any yet' }}
     </h3>
   </div>
 </template>
@@ -45,28 +45,28 @@ export default {
     postType: {
       type: String,
       default: 'blog',
-      validator: (val) => ['blog', 'projects', 'products'].includes(val),
+      validator: val => ['blog', 'projects', 'products'].includes(val)
     },
     amount: {
       // ? https://content.nuxtjs.org/fetching#limitn
       type: Number,
       default: 10,
-      validator: (val) => val >= 0 && val < 100,
+      validator: val => val >= 0 && val < 100
     },
     sortBy: {
       // ? https://content.nuxtjs.org/fetching#sortbykey-direction
       type: Object,
       default: () => ({
         key: 'slug',
-        direction: 'desc', // you probably want 'asc' here
+        direction: 'desc' // you probably want 'asc' here
       }),
-      validator: (obj) => typeof obj.key === 'string' && typeof obj.direction === 'string',
-    },
+      validator: obj => typeof obj.key === 'string' && typeof obj.direction === 'string'
+    }
   },
   data() {
     return {
       posts: [],
-      query: '',
+      query: ''
     }
   },
   async mounted() {
@@ -80,7 +80,7 @@ export default {
       }
 
       this.posts = await this.fetchPosts()
-    },
+    }
   },
   methods: {
     formatDate(dateString) {
@@ -93,10 +93,10 @@ export default {
         .limit(amount)
         .search(this.query)
         .fetch()
-        .catch((err) => {
+        .catch(err => {
           error({ statusCode: 404, message: amount > 1 ? 'Posts not found' : 'Post not found' })
         })
-    },
-  },
+    }
+  }
 }
 </script>

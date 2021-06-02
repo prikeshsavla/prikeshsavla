@@ -147,13 +147,13 @@ export default {
       name: SITE_INFO.sitename || process.env.npm_package_name || '',
       lang: process.env.lang,
       ogHost: process.env.URL,
-      ogImage: '/preview.jpg'
+      ogImage: '/icon.jpg'
     }
   },
   gtm: {
-    id: 'GTM-KPJ6CS8'
+    id: 'GTM-P77GXQL'
   },
   googleAnalytics: {
-    id: 'G-W6LE9JTJ62'
+    id: 'G-FP6HB9HJ63'
   }
 }
