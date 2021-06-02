@@ -13,32 +13,27 @@
 [[redirects]]
   from = "/newsletter/*"
   to = "http://openpullrequest.substack.com/:splat"
-  status = 200
-  force = true
+  status = 301
 
 [[redirects]]
   from = "/github/*"
   to = "https://github.com/prikeshsavla"
-  status = 200
-  force = true
+  status = 301
 
 [[redirects]]
   from = "/twitter/*"
   to = "https://twitter.com/prikeshdexter"
-  status = 200
-  force = true
+  status = 301
 
 [[redirects]]
   from = "/linkedin/*"
   to = "https://www.linkedin.com/in/prikeshsavla"
-  status = 200
-  force = true
+  status = 301
 
 [[redirects]]
   from = "/instagram/*"
   to = "https://www.instagram.com/prikeshdexter/"
-  status = 200
-  force = true
+  status = 301
 
 
 [build]
