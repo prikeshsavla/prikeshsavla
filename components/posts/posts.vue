@@ -33,7 +33,7 @@
       </li>
     </ul>
     <h3 v-else class="max-w-5xl mx-auto mt-4">
-      {{ amount > 1 ? 'Havent written any yet' : 'Havent written any yet' }}
+      {{ amount > 1 ? 'Loading some right now' : 'Loading some right now' }}
     </h3>
   </div>
 </template>

@@ -72,14 +72,7 @@ export default {
   /*
    ** Nuxt.js dev-modules
    */
-  buildModules: [
-    '@nuxtjs/color-mode',
-    '@nuxtjs/tailwindcss',
-    '@nuxtjs/svg',
-    '@nuxtjs/pwa',
-    '@nuxtjs/gtm',
-    '@nuxtjs/google-analytics'
-  ],
+  buildModules: ['@nuxtjs/color-mode', '@nuxtjs/tailwindcss', '@nuxtjs/svg', '@nuxtjs/pwa', '@nuxtjs/google-analytics'],
   /*
    ** Nuxt.js modules
    */
@@ -123,7 +116,7 @@ export default {
   purgeCSS: {
     mode: 'postcss',
     // ? Whitelisting docs: https://v1.purgecss.com/whitelisting
-    whitelist: ['dark-mode', 'light-mode', 'btn', 'icon', 'main', 'code'],
+    whitelist: ['dark-mode', 'light-mode', 'btn', 'icon', 'main', 'code', 'pre'],
     whitelistPatterns: [/^card/, /^nuxt-content/, /image$/, /title$/],
     whitelistPatternsChildren: [/^nuxt-content/]
   },
@@ -149,9 +142,6 @@ export default {
       ogHost: process.env.URL,
       ogImage: '/icon.jpg'
     }
-  },
-  gtm: {
-    id: 'GTM-P77GXQL'
   },
   googleAnalytics: {
     id: 'G-FP6HB9HJ63'
