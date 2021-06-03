@@ -12,7 +12,7 @@
 
 [[redirects]]
   from = "/newsletter/*"
-  to = "http://openpullrequest.substack.com/:splat"
+  to = "https://openpullrequest.substack.com/:splat?utm_campaign=web&utm_medium=web&utm_source=prikeshsavla"
   status = 301
 
 [[redirects]]
