@@ -5,14 +5,16 @@
         <nuxt-link class="btn block" to="/"> 🏠 </nuxt-link>
       </li>
       <li class="flex-1 ml-2">
-        <nuxt-link class="btn block" to="/blog">blog</nuxt-link>
-      </li>
-      <li class="flex-1 ml-2">
         <nuxt-link class="btn block" to="/projects">projects</nuxt-link>
       </li>
       <li class="flex-1 ml-2">
+        <a target="_blank" rel="noopener" class="btn block" href="https://prikeshsavla.com/blog">
+          blog 
+        </a>        
+      </li>
+      <li class="flex-1 ml-2">
         <a target="_blank" rel="noopener" class="btn block" href="https://prikeshsavla.com/newsletter">
-          newsletter
+           newsletter 
         </a>
       </li>
     </ul>

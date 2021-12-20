@@ -46,23 +46,6 @@ collections:
                 ],
             }
           # - { label: Site Email, name: siteemail, widget: string, required: false }
-  - name: "blog"
-    label: "Blog"
-    folder: "content/blog"
-    create: true
-    format: "frontmatter"
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    # editor:
-    #   preview: true
-    fields:
-      - { label: "Title", name: "title", widget: "string", required: true }
-      - {
-          label: "Description",
-          name: "description",
-          widget: "string",
-          required: false,
-        }
-      - { label: "Body", name: "body", widget: "markdown", required: false }
   - name: "projects"
     label: "Projects"
     label_singular: "Project"

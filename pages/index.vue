@@ -30,11 +30,14 @@
       </div>
       <nav class="scrim-bg z-40 top-0 inset-x-0 pt-3 px-3 mt-2" aria-label="Main Menu">
         <ul class="flex">
-          <li class="flex-2 ml-4 ">
-            <nuxt-link class="btn block text-center" to="/blog">📝blog</nuxt-link>
-          </li>
+          
           <li class="flex-2 ml-4">
             <nuxt-link class="btn block text-center" to="/projects">💻 projects</nuxt-link>
+          </li>
+          <li class="flex-2 ml-4 ">
+            <a target="_blank" rel="noopener" class="btn block" href="https://prikeshsavla.com/blog">
+          📝blog 
+        </a>   
           </li>
           <li class="flex-2 ml-4">
             <a target="_blank" rel="noopener" class="btn block text-center" href="https://prikeshsavla.com/newsletter">
@@ -42,16 +45,10 @@
             </a>
           </li>
         </ul>
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api?username=prikeshsavla&show_icons=true&count_private=true&theme=dark" alt="">
+        <br>
       </nav>
-      <iframe
-        class="mt-4 "
-        src="https://openpullrequest.substack.com/embed"
-        width="100%"
-        height="250"
-        style="border:1px solid #EEE; background:white;"
-        frameborder="0"
-        scrolling="no"
-      ></iframe>
     </section>
   </main>
 </template>
