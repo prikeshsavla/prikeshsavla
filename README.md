@@ -26,8 +26,6 @@
 <!-- GitHub stats card from anuraghazra/github-readme-stats which is basically a front-end app powered by Vercel -->
 ## GitHub Stats
 ![My Stats](https://github-readme-stats.vercel.app/api?username=prikeshsavla&show_icons=true&count_private=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prikeshsavla&layout=compact&langs_count=8&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prikeshsavla&theme=highcontrast)
 
 ## Trophies? (For stats)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=prikeshsavla&theme=monokai&row=1&no-frame=true&no-bg=true)
@@ -55,8 +53,3 @@
 <a href="https://www.virtualbadge.io/certificate-validator?credential=cer-c55d4053-aefd-42ef-8816-73aa86ee" > 
 <img src="https://user-images.githubusercontent.com/34878926/115722733-e6f56680-a39c-11eb-924f-3b032dc7b6e4.png" width="150">
   </a>
-<br/>
-
-<a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kktaq4q79irbxj2u5qkk" alt="trackgit-views" />
-</a>
