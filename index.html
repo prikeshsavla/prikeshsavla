@@ -90,10 +90,17 @@
     <!-- Custom styles for this example -->
     <style>
       /* Global CSS variables */
+      * [data-theme="dark"] {
+        --muted-color: #9da8af;
+        --color: #9da8af;
+      }
+
       :root {
         --spacing-company: 3rem;
         --font-weight: 400;
         --border-radius: 0;
+        --muted-color: #9da8af;
+        --color: #9da8af;
       }
 
       /* Typography */
@@ -283,7 +290,7 @@
               required
             />
 
-            <button type="submit">Subscribe</button>
+            <button class="contrast" type="submit">Subscribe</button>
           </form>
           <small>
             By subscribing, you agree with Revue’s
