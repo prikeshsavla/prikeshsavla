@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+  <head>
+    <title>Prikesh Savla - Full Stack Developer</title>
+    <meta data-n-head="ssr" charset="utf-8" />
+    <meta
+      data-n-head="ssr"
+      name="viewport"
+      content="width=device-width,initial-scale=1"
+    />
+    <meta
+      data-n-head="ssr"
+      data-hid="description"
+      name="description"
+      content="Full Stack Web Developer and Open Source Contributor. Making mobile first websites with Vue.js and NuxtJs. High performance Web Apps and Prototypes with Ruby on Rails"
+    />
+    <meta data-n-head="ssr" data-hid="charset" charset="utf-8" />
+    <meta
+      data-n-head="ssr"
+      data-hid="mobile-web-app-capable"
+      name="mobile-web-app-capable"
+      content="yes"
+    />
+    <meta
+      data-n-head="ssr"
+      data-hid="apple-mobile-web-app-title"
+      name="apple-mobile-web-app-title"
+      content="Prikesh Savla - Full Stack Developer"
+    />
+    <meta
+      data-n-head="ssr"
+      data-hid="author"
+      name="author"
+      content="Prikesh Savla"
+    />
+    <meta
+      data-n-head="ssr"
+      data-hid="og:type"
+      name="og:type"
+      property="og:type"
+      content="website"
+    />
+    <meta
+      data-n-head="ssr"
+      data-hid="og:title"
+      name="og:title"
+      property="og:title"
+      content="Prikesh Savla - Full Stack Developer"
+    />
+    <meta
+      data-n-head="ssr"
+      data-hid="og:site_name"
+      name="og:site_name"
+      property="og:site_name"
+      content="Prikesh Savla - Full Stack Developer"
+    />
+    <meta
+      data-n-head="ssr"
+      data-hid="og:description"
+      name="og:description"
+      property="og:description"
+      content="Full Stack Web Developer and Open Source contributor. Making mobile first websites with Vue.js and NuxtJs. High performance Web Apps and Prototypes with Ruby on Rails"
+    />
+    <meta
+      data-n-head="ssr"
+      data-hid="og:url"
+      name="og:url"
+      property="og:url"
+      content="https://prikeshsavla.com"
+    />
+    <meta
+      data-n-head="ssr"
+      data-hid="og:image"
+      name="og:image"
+      property="og:image"
+      content="https://prikeshsavla.com/img/prikesh.jpg"
+    />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="msapplication-TileColor" content="#000000" />
+    <meta name="theme-color" content="#ffffff" />
+    <!-- Pico.css -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css"
+    />
+
+    <!-- Custom styles for this example -->
+    <style>
+      /* Global CSS variables */
+      :root {
+        --spacing-company: 3rem;
+        --font-weight: 400;
+        --border-radius: 0;
+      }
+
+      /* Typography */
+      h2,
+      h3,
+      hgroup > :last-child {
+        font-weight: 200;
+      }
+
+      small {
+        color: var(--muted-color);
+      }
+
+      /* Header */
+      .hero {
+        /* background-color: #394046; */
+        /* background-image: url("https://source.unsplash.com/DNQ-M93tHmA/3000x1000"); */
+        background-position: center;
+        background-size: cover;
+      }
+
+      header {
+        padding: var(--spacing-company) 0;
+      }
+
+      header hgroup > :last-child {
+        color: var(--h3-color);
+      }
+
+      header hgroup {
+        margin-bottom: var(--spacing-company);
+      }
+
+      /* Main */
+      @media (min-width: 992px) {
+        main .grid {
+          grid-column-gap: var(--spacing-company);
+          grid-template-columns: auto 25%;
+        }
+      }
+
+      form.grid {
+        grid-row-gap: 0;
+      }
+
+      /* Aside nav */
+      aside img {
+        margin-bottom: 0.25rem;
+      }
+
+      aside p {
+        margin-bottom: var(--spacing-company);
+        line-height: 1.25;
+      }
+    </style>
+  </head>
+
+  <body>
+    <!-- Hero -->
+    <div class="hero" data-theme="dark">
+      <nav class="container-fluid">
+        <ul>
+          <li>
+            <a href="./" class="contrast" onclick="event.preventDefault()"
+              ><strong>Prikesh Savla</strong></a
+            >
+          </li>
+        </ul>
+        <ul>
+          <li>
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://github.com/prikeshsavla"
+              class="contrast"
+              >Github</a
+            >
+          </li>
+          <li>
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://blog.prikeshsavla.com"
+              class="contrast"
+              >Blog</a
+            >
+          </li>
+          <li>
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://newsletter.prikeshsavla.com"
+              class="contrast"
+              >Newsletter</a
+            >
+          </li>
+        </ul>
+      </nav>
+      <header class="container">
+        <div style="text-align: center">
+          <figure>
+            <img
+              src="img/prikesh.jpg"
+              alt="A Picture of Prikesh Savla"
+              width="300"
+            />
+          </figure>
+          <p>Hello 👋 My name is</p>
+          <div class="headings">
+            <h1>Prikesh Savla</h1>
+            <h2 style="max-width: 500px; margin: 0 auto">
+              Full Stack Developer and Open Source Contributor
+            </h2>
+          </div>
+          <p style="max-width: 500px; margin-left: auto; margin-right: auto">
+            Making high performance Webapps and Prototypes with Ruby on Rails,
+            NuxtJs and Vue.js. Builds easy to use and accessible SaaS Products.
+          </p>
+          <p>🎮🕹⌨ Gamer & Loves Food Vlogs & Documentaries</p>
+          <p>
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://prikeshsavla.com/github"
+              >github</a
+            >
+            |
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://prikeshsavla.com/twitter"
+              >twitter</a
+            >
+            |
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://prikeshsavla.com/linkedin"
+              >linkedin</a
+            >
+            |
+            <a
+              target="_blank"
+              rel="noopener"
+              href="https://prikeshsavla.com/instagram"
+              >instagram</a
+            >
+          </p>
+        </div>
+      </header>
+    </div>
+    <!-- ./ Hero -->
+
+    <!-- Subscribe -->
+    <section aria-label="Subscribe to newsletter">
+      <div class="container">
+        <article>
+          <hgroup>
+            <h2>Subscribe to Open Source Tinker</h2>
+            <h3>
+              A journey to find new and inspiring open-source projects to learn,
+              build and contribute
+            </h3>
+          </hgroup>
+          <form
+            class="grid"
+            action="http://newsletter.prikeshsavla.com/add_subscriber"
+            method="post"
+            id="revue-form"
+            name="revue-form"
+            target="_blank"
+          >
+            <input
+              type="email"
+              name="member[email]"
+              id="email"
+              placeholder="Email address"
+              aria-label="Email address"
+              required
+            />
+            <input
+              type="text"
+              id="firstname"
+              name="member[first_name]"
+              placeholder="First name"
+              aria-label="First name"
+              required
+            />
+
+            <button type="submit">Subscribe</button>
+          </form>
+          <small>
+            By subscribing, you agree with Revue’s
+            <a target="_blank" href="https://www.getrevue.co/terms"
+              >Terms of Service</a
+            >
+            and
+            <a target="_blank" href="https://www.getrevue.co/privacy"
+              >Privacy Policy</a
+            >.
+          </small>
+        </article>
+      </div>
+    </section>
+    <!-- ./ Subscribe -->
+
+    <!-- Footer -->
+    <footer class="container">
+      <small
+        >Built with <a href="https://picocss.com">Pico</a> • Hosted with
+        <a href="https://netlify.com">Netlify</a> •
+        <a href="https://github.com/prikeshsavla/prikeshsavla"
+          >Source code</a
+        ></small
+      >
+    </footer>
+    <!-- ./ Footer -->
+  </body>
+</html>
