@@ -13,7 +13,7 @@
 
 
 
-- 🔭 I’m currently working on [Open Pull Request Newsletter](https://prikeshsavla.com/newsletter) 
+- 🔭 I’m currently working on [Open Pull Request Newsletter](https://newsletter.prikeshsavla.com) 
 - 🌱 I’m currently learning Go and NuxtJs
 - 👯 I’m looking to collaborate on Vue, Go, Ruby, Js, CSS
 - 🤔 I’m looking for help with Go, Nuxt
