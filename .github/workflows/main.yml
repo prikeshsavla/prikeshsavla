@@ -1,0 +1,16 @@
+name: Update this repo's README
+
+on:
+  schedule:
+    # Once a day at 8 AM
+    - cron: 0 8 * * *
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://newsletter.prikeshsavla.com/?format=rss
+          readme-section: feed
+          template: "> {{ title }} - {{ excerpt }}\n\n[Read more!]({{ link }})"
