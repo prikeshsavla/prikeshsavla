@@ -2,7 +2,7 @@ name: Update this repo's README
 
 on:
   schedule:
-    # Once a day at 8 AM
+    # Once a day at 9 AM
     - cron: 0 9 * * *
 
 jobs:
@@ -13,4 +13,3 @@ jobs:
         with:
           feed-url: https://newsletter.prikeshsavla.com/?format=rss
           readme-section: feed
-          template: "> {{ title }} - {{ excerpt }}\n\n[Read more!]({{ link }})"
