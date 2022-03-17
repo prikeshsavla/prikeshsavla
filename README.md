@@ -56,5 +56,10 @@
   
 ### Newsletter Articles:
 <!--START_SECTION:feed-->
+* [Open Source Tinker](https:&#x2F;&#x2F;www.getrevue.co&#x2F;profile&#x2F;opensourcetinker&#x2F;issues&#x2F;open-source-tinker-1070543)
+* [Open Source Tinker](https:&#x2F;&#x2F;www.getrevue.co&#x2F;profile&#x2F;opensourcetinker&#x2F;issues&#x2F;open-source-tinker-1055286)
+* [Open Source Tinker](https:&#x2F;&#x2F;www.getrevue.co&#x2F;profile&#x2F;opensourcetinker&#x2F;issues&#x2F;open-source-tinker-1055285)
+* [Open Source Tinker #31](https:&#x2F;&#x2F;www.getrevue.co&#x2F;profile&#x2F;opensourcetinker&#x2F;issues&#x2F;open-source-tinker-31-1055289)
+* [Open Source Tinker #30](https:&#x2F;&#x2F;www.getrevue.co&#x2F;profile&#x2F;opensourcetinker&#x2F;issues&#x2F;open-source-tinker-30-1055290)
 <!--END_SECTION:feed-->
 
