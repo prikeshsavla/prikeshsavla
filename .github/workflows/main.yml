@@ -13,5 +13,5 @@ jobs:
         with:
           feed-url: https://newsletter.prikeshsavla.com/?format=rss
           readme-section: feed
-          template: "> {{ title }} - {{ excerpt }}\n\n[Read more!]({{ link }})"
+          template: "> {{ title }} - {{ description }}\n\n[Read more!]({{ link }})"
           branch: main
