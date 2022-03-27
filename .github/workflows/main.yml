@@ -15,4 +15,3 @@ jobs:
           readme-section: feed
           template: "> {{ title }} - {{ description }}\n\n[Read more!]({{ link }})"
           branch: main
-          empty-commits: false
