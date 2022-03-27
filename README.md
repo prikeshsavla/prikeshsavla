@@ -62,20 +62,10 @@
   
 ### Newsletter Articles:
 <!--START_SECTION:newsletter-->
-> Open Source Tinker #36 - running secure and intelligent services with the help of open source tools
-
-[Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-36)
-> Open Source Tinker #35 - The (dev)docs of all types of languages and frameworks are available offline with this web application
-
-[Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-35)
-> Open Source Tinker #34 - TDD, Where Did It All Go Wrong &amp; open-source alternatives for popular services (1&#x2F;n)
-
-[Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-34)
-> Open Source Tinker #33 - You are Not an Impostor | find container vulnerabilities or provide a better contributor experience
-
-[Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-33)
-> Open Source Tinker #32 - have you seen an offline frontend playground or a database for static sites?
-
-[Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-32)
+* [Open Source Tinker #36 - running secure and intelligent services with the help of open source tools](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-36)
+* [Open Source Tinker #35 - The (dev)docs of all types of languages and frameworks are available offline with this web application](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-35)
+* [Open Source Tinker #34 - TDD, Where Did It All Go Wrong &amp; open-source alternatives for popular services (1&#x2F;n)](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-34)
+* [Open Source Tinker #33 - You are Not an Impostor | find container vulnerabilities or provide a better contributor experience](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-33)
+* [Open Source Tinker #32 - have you seen an offline frontend playground or a database for static sites?](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-32)
 <!--END_SECTION:newsletter-->
 
