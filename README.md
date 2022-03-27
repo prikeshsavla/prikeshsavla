@@ -54,13 +54,13 @@
 <img src="https://user-images.githubusercontent.com/34878926/115722733-e6f56680-a39c-11eb-924f-3b032dc7b6e4.png" width="150">
   </a>
   
-### Blog Articles:
+### Latest [Blog](https://blog.prikeshsavla.com) Articles:
 <!--START_SECTION:blog-->
 * [A WordPress alternative called SilverStripe](https:&#x2F;&#x2F;blog.prikeshsavla.com&#x2F;a-wordpress-alternative-called-silverstripe)
 * [5 things to remember when doing UX as a developer](https:&#x2F;&#x2F;blog.prikeshsavla.com&#x2F;5-things-to-remember-when-doing-ux-as-a-developer)
 <!--END_SECTION:blog-->
   
-### Newsletter Articles:
+### Latest on the newsletter [Open Pull Request](https://newsletter.prikeshsavla.com):
 <!--START_SECTION:newsletter-->
 * [Open Source Tinker #36 - running secure and intelligent services with the help of open source tools](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-36)
 * [Open Source Tinker #35 - The (dev)docs of all types of languages and frameworks are available offline with this web application](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-35)
