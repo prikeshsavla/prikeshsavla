@@ -8,13 +8,23 @@ on:
 
 
 jobs:
-  update:
+  newsletter-feed:
     runs-on: ubuntu-latest
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://newsletter.prikeshsavla.com/feed
           readme-section: feed
+          template: "> {{ title }} - {{ contentSnippet }}\n\n[Read more!]({{ link }})"
+          branch: main
+          empty-commits: false
+  blog-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://blog.prikeshsavla.com/rss.xml
+          readme-section: blog
           template: "> {{ title }} - {{ contentSnippet }}\n\n[Read more!]({{ link }})"
           branch: main
           empty-commits: false
