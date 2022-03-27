@@ -56,20 +56,20 @@
   
 ### Newsletter Articles:
 <!--START_SECTION:feed-->
-> Open Source Tinker - 
+> Open Source Tinker #36 - 
 
-[Read more!](https:&#x2F;&#x2F;www.getrevue.co&#x2F;profile&#x2F;opensourcetinker&#x2F;issues&#x2F;open-source-tinker-1081679)
-> Open Source Tinker - 
+[Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-36)
+> Open Source Tinker #35 - 
 
-[Read more!](https:&#x2F;&#x2F;www.getrevue.co&#x2F;profile&#x2F;opensourcetinker&#x2F;issues&#x2F;open-source-tinker-1070543)
-> Open Source Tinker - 
+[Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-35)
+> Open Source Tinker #34 - 
 
-[Read more!](https:&#x2F;&#x2F;www.getrevue.co&#x2F;profile&#x2F;opensourcetinker&#x2F;issues&#x2F;open-source-tinker-1055286)
-> Open Source Tinker - 
+[Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-34)
+> Open Source Tinker #33 - 
 
-[Read more!](https:&#x2F;&#x2F;www.getrevue.co&#x2F;profile&#x2F;opensourcetinker&#x2F;issues&#x2F;open-source-tinker-1055285)
-> Open Source Tinker #31 - 
+[Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-33)
+> Open Source Tinker #32 - 
 
-[Read more!](https:&#x2F;&#x2F;www.getrevue.co&#x2F;profile&#x2F;opensourcetinker&#x2F;issues&#x2F;open-source-tinker-31-1055289)
+[Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-32)
 <!--END_SECTION:feed-->
 
