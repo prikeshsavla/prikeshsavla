@@ -54,8 +54,13 @@
 <img src="https://user-images.githubusercontent.com/34878926/115722733-e6f56680-a39c-11eb-924f-3b032dc7b6e4.png" width="150">
   </a>
   
+### Blog Articles:
+<!--START_SECTION:blog-->
+
+<!--END_SECTION:blog-->
+  
 ### Newsletter Articles:
-<!--START_SECTION:feed-->
+<!--START_SECTION:newsletter-->
 > Open Source Tinker #36 - running secure and intelligent services with the help of open source tools
 
 [Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-36)
@@ -71,5 +76,5 @@
 > Open Source Tinker #32 - have you seen an offline frontend playground or a database for static sites?
 
 [Read more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-32)
-<!--END_SECTION:feed-->
+<!--END_SECTION:newsletter-->
 
