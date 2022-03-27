@@ -11,7 +11,8 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://newsletter.prikeshsavla.com/?format=rss
+          feed-url: https://newsletter.prikeshsavla.com/feed
           readme-section: feed
           template: "> {{ title }} - {{ description }}\n\n[Read more!]({{ link }})"
           branch: main
+          empty-commits: false
