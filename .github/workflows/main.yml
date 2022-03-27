@@ -15,7 +15,7 @@ jobs:
         with:
           feed-url: https://newsletter.prikeshsavla.com/feed
           readme-section: newsletter
-          template: "> {{ title }} - {{ contentSnippet }}\n\n[Read more!]({{ link }})"
+          template: "* [{{ title }} - {{ contentSnippet }}]({{ link }})"
           branch: main
           empty-commits: false
   blog-feed:
@@ -25,6 +25,5 @@ jobs:
         with:
           feed-url: https://blog.prikeshsavla.com/rss.xml
           readme-section: blog
-          template: "> {{ title }} - {{ contentSnippet }}\n\n[Read more!]({{ link }})"
           branch: main
           empty-commits: false
