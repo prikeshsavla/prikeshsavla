@@ -56,7 +56,6 @@
   
 ### Blog Articles:
 <!--START_SECTION:blog-->
-
 <!--END_SECTION:blog-->
   
 ### Newsletter Articles:
