@@ -3,14 +3,27 @@ name: Update this repo's README
 on:
   schedule:
     # Once a day at 9 AM
-    - cron: 10 * * * *
+    - cron: 0 9 * * *
+  workflow_dispatch:
+
 
 jobs:
-  update:
+  newsletter-feed:
     runs-on: ubuntu-latest
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://newsletter.prikeshsavla.com/?format=rss
-          readme-section: feed
+          feed-url: https://newsletter.prikeshsavla.com/feed
+          readme-section: newsletter
+          template: "* [{{ title }} - {{ contentSnippet }}]({{ link }})"
           branch: main
+          empty-commits: false
+  blog-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://blog.prikeshsavla.com/rss.xml
+          readme-section: blog
+          branch: main
+          empty-commits: false

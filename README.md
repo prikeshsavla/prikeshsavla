@@ -54,7 +54,18 @@
 <img src="https://user-images.githubusercontent.com/34878926/115722733-e6f56680-a39c-11eb-924f-3b032dc7b6e4.png" width="150">
   </a>
   
-### Newsletter Articles:
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
+### Latest [Blog](https://blog.prikeshsavla.com) Articles:
+<!--START_SECTION:blog-->
+* [A WordPress alternative called SilverStripe](https:&#x2F;&#x2F;blog.prikeshsavla.com&#x2F;a-wordpress-alternative-called-silverstripe)
+* [5 things to remember when doing UX as a developer](https:&#x2F;&#x2F;blog.prikeshsavla.com&#x2F;5-things-to-remember-when-doing-ux-as-a-developer)
+<!--END_SECTION:blog-->
+  
+### Latest on the newsletter [Open Pull Request](https://newsletter.prikeshsavla.com):
+<!--START_SECTION:newsletter-->
+* [Open Source Tinker #36 - running secure and intelligent services with the help of open source tools](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-36)
+* [Open Source Tinker #35 - The (dev)docs of all types of languages and frameworks are available offline with this web application](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-35)
+* [Open Source Tinker #34 - TDD, Where Did It All Go Wrong &amp; open-source alternatives for popular services (1&#x2F;n)](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-34)
+* [Open Source Tinker #33 - You are Not an Impostor | find container vulnerabilities or provide a better contributor experience](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-33)
+* [Open Source Tinker #32 - have you seen an offline frontend playground or a database for static sites?](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-32)
+<!--END_SECTION:newsletter-->
 
