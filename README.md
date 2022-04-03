@@ -60,6 +60,7 @@ href="http://www.github.com/prikeshsavla"><img src="https://github-readme-stats.
   
 ### Latest [Blog](https://blog.prikeshsavla.com) Articles:
 <!--START_SECTION:blog-->
+* [Build a killer GitHub profile with these awesome tools](https:&#x2F;&#x2F;blog.prikeshsavla.com&#x2F;build-a-killer-github-profile-with-these-awesome-tools)
 * [5 books a Frontend Developer must read](https:&#x2F;&#x2F;blog.prikeshsavla.com&#x2F;5-books-a-frontend-developer-must-read)
 * [A WordPress alternative called SilverStripe](https:&#x2F;&#x2F;blog.prikeshsavla.com&#x2F;a-wordpress-alternative-called-silverstripe)
 * [5 things to remember when doing UX as a developer](https:&#x2F;&#x2F;blog.prikeshsavla.com&#x2F;5-things-to-remember-when-doing-ux-as-a-developer)
