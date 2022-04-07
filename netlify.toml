@@ -1,12 +1,6 @@
-# [[redirects]]
-#  from = "/projects/*"
-#  to = "/index.html"
-#  status = 200
-#  force = true
-
 #[[redirects]]
 #  from = "/blog/*"
-#  to = "https://prikeshdexter.blogspot.com/:splat?utm_campaign=prikeshsavla&utm_medium=web&utm_source=web"
+#  to = "https://blog.prikeshsavla.com/?utm_campaign=prikeshsavla&utm_medium=web&utm_source=web"
 #  status = 301
 
 [[redirects]]
