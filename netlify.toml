@@ -38,5 +38,7 @@
 # command = "npm run generate"
 # publish = "dist"
 
-# [[plugins]]
+[[plugins]]
+package = "@netlify/plugin-functions-install-core"
 # package = "netlify-plugin-subfont"
+
