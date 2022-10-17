@@ -69,10 +69,10 @@ href="http://www.github.com/prikeshsavla"><img src="https://github-readme-stats.
   
 ### Latest on the newsletter [Open Pull Request](https://newsletter.prikeshsavla.com):
 <!--START_SECTION:newsletter-->
+* [Open Source Tinker #46 - It is open source games time!!! build, fight, explore and more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-46)
 * [Open Source Tinker #45 - Enable yourself to read, learn, &quot;login&quot; and present, everything opensource](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-45)
 * [Open Source Tinker #44 - All good things around internet (mostly ruby stuff) and Why accessibility is a must.](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-44)
 * [Open Source Tinker #43 - What&#39;s new in Typescript nowadays?](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-43)
 * [Open Source Tinker #42  - This newsletter article... Its all from Mozilla? 🔫Always has been!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-42)
-* [Open Source Tinker #41 - open source security from cloud to network and learn contributing to Open Source for the first time](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-41)
 <!--END_SECTION:newsletter-->
 
