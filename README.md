@@ -69,10 +69,10 @@ href="http://www.github.com/prikeshsavla"><img src="https://github-readme-stats.
   
 ### Latest on the newsletter [Open Pull Request](https://newsletter.prikeshsavla.com):
 <!--START_SECTION:newsletter-->
+* [Open Pull Request #49 - 24pullrequests, fastlane, marqo, motor-admin, memos and Distributed Systems in One Lesson](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-pull-request-49)
 * [Open Source Tinker #48 - They say HTTP&#x2F;2 is like H2O for websites!!! and bring out your programming skills with this one-html-page challenge](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-48)
 * [Open Source Tinker #47 - Look out for the Game Off 2022!!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-47)
 * [Open Source Tinker #46 - It is open source games time!!! build, fight, explore and more!](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-46)
 * [Open Source Tinker #45 - Enable yourself to read, learn, &quot;login&quot; and present, everything opensource](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-45)
-* [Open Source Tinker #44 - All good things around internet (mostly ruby stuff) and Why accessibility is a must.](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-source-tinker-44)
 <!--END_SECTION:newsletter-->
 
