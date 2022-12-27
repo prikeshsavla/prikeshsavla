@@ -69,10 +69,10 @@ href="http://www.github.com/prikeshsavla"><img src="https://github-readme-stats.
   
 ### Latest on the newsletter [Open Pull Request](https://newsletter.prikeshsavla.com):
 <!--START_SECTION:newsletter-->
+* [Open Pull Request #54 - A Developer&#39;s Guide to SCIM with scim_rails, melonJS, lyra, merit and climate_control](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-pull-request-54)
 * [Open Pull Request #53 - polars, fae, unredacter, OpenRGB, forma and Scaling GIPHY - the Legos of Visual Communication](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-pull-request-53)
 * [Open Pull Request #52 - paint-with-words-sd, bridgetown, free-gophers-pack, bleve, oss-fuzz and Internationalis(z)ing Code](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-pull-request-52)
 * [Open Pull Request #51 - The Problem with Time &amp; Timezones along with ninja-keys, zeppelin, ledger, lefthook and reflex](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-pull-request-51)
 * [Open Pull Request #50 - Its all about GraphQL nowadays with json-graphql-server, nhost, saleor, insomnia, envelop](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-pull-request-50)
-* [Open Pull Request #49 - 24pullrequests, fastlane, marqo, motor-admin, memos and Distributed Systems in One Lesson](https:&#x2F;&#x2F;openpullrequest.substack.com&#x2F;p&#x2F;open-pull-request-49)
 <!--END_SECTION:newsletter-->
 
