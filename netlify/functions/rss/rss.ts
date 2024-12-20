@@ -12,7 +12,7 @@ interface FeedResponse {
 export const handler: Handler = async () => {
   const data = (
     await Promise.all([
-      getData("https://openpullrequest.substack.com/feed", 3, false),
+      getData("https://openpullrequest.substack.com/feed", 5, false),
       getData("https://blog.prikeshsavla.com/rss.xml", 3, true),
     ])
   )
