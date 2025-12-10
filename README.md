@@ -48,12 +48,13 @@ Making high performance Webapps and Prototypes with Ruby on Rails, NuxtJs and Vu
 <a href="http://www.medium.com/@prikeshsavla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
 <a href="https://www.stackoverflow.com/users/6573972/prikesh-savla" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 
+<!--
 ### Badges
 <b>My GitHub Stats</b>     
 <a
 href="http://www.github.com/prikeshsavla"><img src="https://github-readme-stats.vercel.app/api?username=prikeshsavla&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prikeshsavla's GitHub stats" /></a>
 <a href="https://github.com/prikeshsavla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prikeshsavla&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>    
-
+-->
   
 ### Latest [Blog](https://blog.prikeshsavla.com) Articles:
 <!--START_SECTION:blog-->
